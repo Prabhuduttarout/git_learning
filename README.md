@@ -1,2 +1,3 @@
 # Knowledgegate Git learning project
-This repo is onlymeant for students to learn git and git commands.
+This repo is only meant for students to learn git and git commands.
+Now i make a small change for Commite.
